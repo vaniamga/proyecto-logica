@@ -1,0 +1,40 @@
+body{
+    background: #a8c0ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+header{
+    margin: 50px;
+    font-family:fantasy;
+}
+
+.introduccion {
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 20px; 
+    text-align: center;
+}
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+}
+
+h1{
+text-align: center;
+
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+img{
+    width: 80%; 
+    height: 80%;
+}
